@@ -2,19 +2,12 @@ INLEIDING INTRODUCTIEPROGRAMMA
 
 ----------------------------------------------------------------------------------
 
-In de software-straat staat praktijkleren (learning on the job)
-centraal. Je gaat een commerciële website testen en al doende leer je de praktijk 
-van het testen en het werken binnen een IT-setting. 
+Dit is het vervolg op het leerprogramma de EERSTEMAAND. 
 
-Voordat je gaat praktijkleren krijg je eerst een introductieprogramma dat ongeveer
-vier weken duurt. In die 4 weken leer je de basis die nodig is om aan te haken bij
-ons team van testers.   
+We gaan verder waar je gebleven was. 
 
-Omdat testen leuk is beginnen we daarmee. Je gaat o.a. de websites 
-Buienrader.nl, Heerlen.nl en WSP.nl testen. 
- 
-Ter afsluiting van je eerste vier weken presenteer je in het bijzijn van
-het team wat je allemaal hebt geleerd. Je doet dat aan de hand van een 
-website die je zelf hebt gekozen en waarvoor je zelf een testscenario en -script
-hebt geschreven.
+Ter afsluiting van je tweede vier weken presenteer je een overzicht van de door jou
+afgeronde sprinttaken.  
 
+In overleg met de PO en de ScrumMaster ga je kijken welke zinvolle, uitdagende taken 
+je kunt oppakken voor je tweede eindopdracht.

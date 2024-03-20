@@ -5,7 +5,7 @@ LEERMATERIALEN
 De LEERMATERIALEN 
 vervullen een ondersteunende rol.
 
-Hier een overzicht van leermiddelen die je ook na de eerste 4 weken moet
+Hier een overzicht van leermiddelen die je gedurende je traject moet
 gebruiken:
 
 1 https://old.reddit.com/r/QualityAssurance/
@@ -25,4 +25,7 @@ vaardigheden verder te ontwikkelen.
 5. https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 De beste gratis instapcursus voor de beginner van de makers van FireFox. De site bevat 
 daarnaast de beste documentatie van alles wat met web verband houdt.
+
+6.https://roadmap.sh/qa
+Als je je wil orienteren op het terrein van QA is dit een prima kaart.   
 

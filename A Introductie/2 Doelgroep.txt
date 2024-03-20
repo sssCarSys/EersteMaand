@@ -2,10 +2,4 @@ DOELGROEP
 
 ----------------------------------------------------------------------------------
 
-Dit introductieprogramma is voor iedereen die start in de IT-straat.
-Het is geschreven voor cursisten die geen of weinig relevante voorkennis hebben. 
-Heb je wel relevante voorkennis dan volg je toch het programma maar dan doorloop je
-het gewoon in kortere tijd en stap je sneller over naar het 'echte' werk.
-
-Heb je meer dan 4 weken nodig dan hebben we dat samen snel in de gaten en kijken we
-of bijstellen nodig is.
+Dit introductieprogramma is voor iedereen die de EERSTEMAAND is doorgekomen. 

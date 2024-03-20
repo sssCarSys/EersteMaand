@@ -1,0 +1,30 @@
+ChatGPT
+
+----------------------------------------------------------------------------------
+
+Opdracht - ToolSkills omgaan met ChatGPT
+
+Leer een nieuwe vraagstrategie die je ook kunt toepassen in de omgang met 
+ChatGPT. 
+
+De OPDRACHT
+Als je vraagt 'leg me uit wat een object in javascript is', krijg je best wel een 
+moeilijke uitleg. Vraag je dan 'leg het me uit alsof ik 5 ben' levert ook niet 
+altijd iets op. Als strategie voor die gevallen kun je de omgekeerde weg bewandelen 
+door te vragen 'mijn oma vroeg me laatst wat is een object in JavaScript. Hoe moet ik haar 
+dat duidelijk maken?'.
+
+Dus de opdracht is om te vragen:
+1. leg me uit wat een object in javascript is. 
+2. leg het me nog eens uit maar nu alsof ik 5 ben.
+3. mijn oma vroeg me laatst wat is een object in JavaScript. Hoe moet ik haar 
+dat duidelijk maken?
+4. wat betekent het keyword 'new' in javascript?
+
+
+WAAROM
+Volgens mij is de snelste manier van leren die waarbij ChatGPT je assistent is die je 
+alles kunt vragen. Je maatje die veel weet en hard zijn best voor je doet maar je moet wel
+leren hoe je dat moet doen.
+
+Hoe beter je leert de juiste vragen te stellen hoe meer je uit deze AI haalt. 

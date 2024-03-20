@@ -1,0 +1,60 @@
+Leerdoelen
+
+------------------------------------------------------------------------
+
+DE LEERDOELEN
+
+TOOLSKILLS: VISUAL STUDIO CODE 
+Als developer is VSCode je belangrijkste gereedschap. Dit zijn de leerdoelen:
+ 
+- Je kunt VSCode downloaden en installeren.
+- Je weet wat een IDE is (googlen of Ai'en).
+- Je kent de belangrijkste onderdelen van VSCode en hun functie. 
+- Je kunt een projectfolder met VSCode openen en sluiten.
+- Je weet hoe je van project kunt wisselen.
+- Je weet hoe je in de explorer folders kunt open- en dichtklappen. 
+- Je weet hoe je een file in de editor kunt openen, bewerken, saven 
+en afsluiten. 
+- Je weet hoe je een file kopieert en in een andere map zet en hoe je een file
+een andere naam geeft.
+- Je weet hoe je een map kunt toevoegen en hernoemen.
+- Je weet hoe je een file in de editor kunt pinnen en ontpinnen
+- Je weet hoe je in de explorer moet zoeken.
+- Je weet hoe je moet zoeken in een file.
+- Je weet hoe je de terminal moet gebruiken.
+   
+TOOLSKILLS: CHATGPT
+- Je weet wat AI is en wat een LLM is en je kunt het aan een ander uitleggen.
+- Je kent de tips en trucs om de beste resutaten te krijgen met ChatGPT.
+- Je weet zo'n beetje waarin ChatGPT goed is en waarin niet.
+- Je begrijpt dat je nooit blindelings moet vertrouwen op de antwoorden
+maar dat je je gezond verstand moet blijven gebruiken als je chatGPT raadpleegt.
+- Je weet hoe je antwoorden kunt checken die je niet vertrouwd of die voor
+jou of voor je werkomgeving belangrijk zijn.
+
+TOOlSKILLS: de CYPRESS ZANDBAK
+- Je weet hoe je de Zandbak moet gebruiken om een test te laten runnen.
+- Je weet wat het commandlog is en wat het commando cy.log() doet.
+- Je weet waartoe 'describes' en 'it-blocken' dienen.
+- Je kunt een basic testscript schrijven.
+
+TESTSKILLS
+- Je weet wat de DOM is.
+- Je weet wat end-to-end testing is.
+- Je weet wat een userscenario is.
+- Je weet wat een testscript is en hoe dat zich verhoudt tot een testscenario.
+- Je kunt in de code van de browser die de testwebsite toont, de selector vinden 
+die in het Cypress-script gebruikt moet worden om de website te testen. 
+- Je weet ook waarom testen in de IT branche belangrijk is
+- Je weet dat er naast end-to-end testen nog een boel andere soorten tests zijn die in de IT worden gebruikt.    
+
+STUDEERSKILLS
+ 
+
+SOCIALE SKILLS: 
+- Je kunt een presentatie geven van de testscript(s) die je hebt geschreven 
+voor de website die je hebt uitgekozen. 
+- Je weet om te gaan met vragen die over het onderwerp van je presentatie  
+worden gesteld.
+- Je kunt luisteren naar wat een ander zegt zodat je de informatie kunt opnemen en verwerken.
+
